@@ -1,0 +1,7 @@
+1- Un legunaje de programacion solo puede utilizarse en algunos SO y no en otros porque
+tiene diferentes funcioanlidades y bibliotecas de cada sistema, ya que los programas estan disenados para utilizar funciones y recursos del SO, manejando memorias y accesos.
+asi mismo los programas pueden estar disenados para trabajar con caracteristicas especificas de algun SO.
+
+2- El tipo de maquina virtual que soporta virtualBox es de tipo 2 por que corre sobre  un SO
+3- El hypervisor es donde se crea la maquina virtual cuya funcion es designar recursos del Hardware a la MaquinaVirtual.
+4- Si se rombe una maquina virtual instalada no deberia porque afectar las demas, ya que estas estan disenadas para que esten aisladas y encapsuladas, lo que permite que cada una trabaje>
